@@ -1,0 +1,3 @@
+policy,demand_units,units_sold,unmet_demand,fill_rate_pct,expired_units,revenue,cost_of_goods_sold,holding_cost,wastage_cost,transfer_cost,expedite_cost,operating_profit
+Baseline,21185,17028,4157,80.38,0,25315.16,19091.53,15.39,0.0,172.5,33760.0,-27724.26
+PPO,21684,18682,3002,86.16,826,27008.85,19682.12,152.44,797.92,105.0,0.0,6271.37

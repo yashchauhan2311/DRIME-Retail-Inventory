@@ -1,0 +1,9 @@
+# Recommended: Python 3.11
+streamlit
+pandas
+plotly
+numpy
+joblib
+scikit-learn==1.9.1
+gymnasium
+stable-baselines3

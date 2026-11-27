@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Large Raw Datasets (>100MB blocked by GitHub)
+m5-forecasting-accuracy (1)/
+raw/
+*.tar.gz
+
+# Allow trained RL model zip
+!integrated_ai_decision_package/models/*.zip
+
+# Redundant empty folders
+Dynamic_Retail_Inventory_UI_Updated_Team_Package/
+
+# Operating System & IDEs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
